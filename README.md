@@ -5,8 +5,8 @@
 🌱 I am passionate about sharing my knowledge with the community, I am a teacher in an academy where I teach Front-End and Back-End courses focused on JavaScript technologies (React, Nodejs, MondoDB, Express, etc). In addition, I actively participate as a speaker in meetups and events. I also have a YouTube channel where I share content about software development (https://www.youtube.com/yoelvism).
 
 ## 📫 Get in touch:
-- LinkedIn: linkedin.com/in/yoelvismulen
-- Twitter: twitter.com/ymulenll
+- LinkedIn: https://linkedin.com/in/yoelvismulen
+- Twitter: https://twitter.com/ymulenll
 
 ## ▶ Latest videos:
 - [CSS Flexbox | Guía completa DESDE CERO | Parte 2 de 2](https://youtu.be/PU1T9DSnxmc)
