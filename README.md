@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋, thanks for visiting my github profile!
+
+🔭 I am a Software Engineer with more than 10 years of experience. I am interested in, teach about and develop software solutions with JavaScript, TypeScript, ReactJs, NodeJS and related technologies.
+
+🌱 I am passionate about sharing my knowledge with the community, I am a teacher in an academy where I teach Front-End and Back-End courses focused on JavaScript technologies (React, Nodejs, MondoDB, Express, etc). In addition, I actively participate as a speaker in meetups and events. I also have a YouTube channel where I share content about software development (https://www.youtube.com/yoelvism).
+
+## 📫 Get in touch:
+- LinkedIn: linkedin.com/in/yoelvismulen
+- Twitter: twitter.com/ymulenll
+
+## ▶ Latest videos:
+- [CSS Flexbox | Guía completa DESDE CERO | Parte 2 de 2](https://youtu.be/PU1T9DSnxmc)
+- [CSS Flexbox | Guía completa DESDE CERO | Parte 1 de 2](https://youtu.be/b2X3sYjRAXY)
+- [NPM tutorial](https://youtu.be/AmDw_8U9TF8)
+- [React.js | Configuración con Webpack y Babel](https://youtu.be/R7AMcD96mqY)
+- [Deja de usar píxeles y usa REM y EM](https://youtu.be/Sgf4HEAW-gQ)
 
 <!--
 **ymulenll/ymulenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
