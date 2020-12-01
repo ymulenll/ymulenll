@@ -9,6 +9,10 @@
 - Twitter: https://twitter.com/ymulenll
 
 ## ▶ Latest videos:
+- [Instalar Ubuntu junto a Windows 10 (Tutorial) | Dual Boot](https://youtu.be/usRIvdhRTS8)
+- [Galería de imágenes tipo Pinterest con HTML, CSS y JS](https://youtu.be/LnEimHQRfFQ)
+- [AWS Cloud Practitioner | Respondo sus preguntas frecuentes](https://youtu.be/RRs8edPoZzU)
+- [CSS GRID | Guía completa DESDE CERO](https://youtu.be/iKdwZ91Q4L8)
 - [CSS Flexbox | Guía completa DESDE CERO | Parte 2 de 2](https://youtu.be/PU1T9DSnxmc)
 - [CSS Flexbox | Guía completa DESDE CERO | Parte 1 de 2](https://youtu.be/b2X3sYjRAXY)
 - [NPM tutorial](https://youtu.be/AmDw_8U9TF8)
