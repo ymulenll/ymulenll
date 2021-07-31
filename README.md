@@ -18,7 +18,13 @@
 - [NPM tutorial](https://youtu.be/AmDw_8U9TF8)
 - [React.js | Configuración con Webpack y Babel](https://youtu.be/R7AMcD96mqY)
 - [Deja de usar píxeles y usa REM y EM](https://youtu.be/Sgf4HEAW-gQ)
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
+- [Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6](https://www.youtube.com/watch?v=HIcCKT-eTKM)
+- [Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5](https://www.youtube.com/watch?v=df7soTJ9vW0)
+- [Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial](https://www.youtube.com/watch?v=bZsMWorjtFI)
+- [Conecta enlaces del menú con secciones de la página | Página web desde cero - parte 4](https://www.youtube.com/watch?v=e14LvRFfjTg)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **ymulenll/ymulenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
