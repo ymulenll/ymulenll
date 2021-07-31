@@ -10,13 +10,6 @@
 
 ## ▶ Latest videos:
 <!-- YOUTUBE:START -->
-- [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
-- [Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6](https://www.youtube.com/watch?v=HIcCKT-eTKM)
-- [Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5](https://www.youtube.com/watch?v=df7soTJ9vW0)
-- [Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial](https://www.youtube.com/watch?v=bZsMWorjtFI)
-- [Conecta enlaces del menú con secciones de la página | Página web desde cero - parte 4](https://www.youtube.com/watch?v=e14LvRFfjTg)
-- [Maquetado responsive en ZIG-ZAG con 🔥 CSS GRID 🔥 | Página web parte 3 - experiencias](https://www.youtube.com/watch?v=xXyvlgjpQJo)
-- [Maquetado responsive y mobile first 📱➡💻 usando flexbox 🚀 | Página web parte 2 - perfil y habilidades](https://www.youtube.com/watch?v=ZOC7BjMDfq0)
 <!-- YOUTUBE:END -->
 
 <!--
