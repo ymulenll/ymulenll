@@ -13,3 +13,5 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCp28AG2NaDuzyVaAT--2NGQ"
           max_post_count: 7
+          commit_message: Updated with the latest YouTube videos
+          comment_tag_name: "YOUTUBE"
