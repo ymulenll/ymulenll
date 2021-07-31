@@ -17,9 +17,6 @@
 - [Conecta enlaces del menú con secciones de la página | Página web desde cero - parte 4](https://www.youtube.com/watch?v=e14LvRFfjTg)
 - [Maquetado responsive en ZIG-ZAG con 🔥 CSS GRID 🔥 | Página web parte 3 - experiencias](https://www.youtube.com/watch?v=xXyvlgjpQJo)
 - [Maquetado responsive y mobile first 📱➡💻 usando flexbox 🚀 | Página web parte 2 - perfil y habilidades](https://www.youtube.com/watch?v=ZOC7BjMDfq0)
-- [Pseudo elementos ::before y ::after en la práctica | Web responsive parte 1.1 efectos al menú](https://www.youtube.com/watch?v=qa4oWn3Zvpk)
-- [Página web responsive desde CERO 🚀 | parte 1: Barra de navegación usando flexbox](https://www.youtube.com/watch?v=ADbxRybIpH0)
-- [React.js desde CERO | Creando web de películas | Parte 3: Formularios y custom hooks](https://www.youtube.com/watch?v=3z-Y4kbLrTM)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
