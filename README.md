@@ -19,6 +19,11 @@
 - [Maquetado responsive y mobile first 📱➡💻 usando flexbox 🚀 | Página web parte 2 - perfil y habilidades](https://www.youtube.com/watch?v=ZOC7BjMDfq0)
 <!-- YOUTUBE:END -->
 
+## 🔢 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymulenll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymulenll&count_private=true)
+
 <!--
 **ymulenll/ymulenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
