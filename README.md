@@ -20,9 +20,9 @@
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymulenll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymulenll&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymulenll&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ymulenll&count_private=true&include_all_commits=true&hide=contribs&hide_rank=true" />
 
 <!--
 **ymulenll/ymulenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
