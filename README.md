@@ -9,6 +9,10 @@
 - Twitter: https://twitter.com/ymulenll
 
 ## ▶ Latest videos:
+<a href="https://www.youtube.com/yoelvism">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCp28AG2NaDuzyVaAT--2NGQ?style=social">
+</a>
+
 <!-- YOUTUBE:START -->
 - [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
 - [Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6](https://www.youtube.com/watch?v=HIcCKT-eTKM)
