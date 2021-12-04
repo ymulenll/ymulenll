@@ -14,7 +14,7 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [Amazon CloudFront - Tutorial | Distribuye archivos globalmente | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
+- [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
 - [React.js desde CERO | Creando web de películas | Parte 4: Scroll Infinito, debounce y tips](https://www.youtube.com/watch?v=VbXAwjAxfU0)
 - [Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8](https://www.youtube.com/watch?v=P7lYk-mHJtQ)
 - [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
