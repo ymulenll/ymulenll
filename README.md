@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
+- [React Router v6 desde cero | Guía para migrar desde la versión 5 - Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
-- [React.js desde CERO | Creando web de películas | Parte 4: Scroll Infinito, debounce y tips](https://www.youtube.com/watch?v=VbXAwjAxfU0)
+- [Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4](https://www.youtube.com/watch?v=VbXAwjAxfU0)
 - [Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8](https://www.youtube.com/watch?v=P7lYk-mHJtQ)
 - [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
 - [Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6](https://www.youtube.com/watch?v=HIcCKT-eTKM)
-- [Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5](https://www.youtube.com/watch?v=df7soTJ9vW0)
-- [Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial](https://www.youtube.com/watch?v=bZsMWorjtFI)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
