@@ -14,8 +14,8 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [React Router v6 guía práctica desde cero - Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 - [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
-- [React Router v6 desde cero | Guía para migrar desde la versión 5 - Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
 - [Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4](https://www.youtube.com/watch?v=VbXAwjAxfU0)
 - [Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8](https://www.youtube.com/watch?v=P7lYk-mHJtQ)
