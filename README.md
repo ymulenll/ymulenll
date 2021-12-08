@@ -15,12 +15,12 @@
 
 <!-- YOUTUBE:START -->
 - [React Router v6 guía práctica desde cero - Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
+- [React Router v6 - EN VIVO 🔴 | Guía para migrar desde la versión 5 | Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
 - [Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4](https://www.youtube.com/watch?v=VbXAwjAxfU0)
 - [Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8](https://www.youtube.com/watch?v=P7lYk-mHJtQ)
 - [Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7](https://www.youtube.com/watch?v=HPXdwErNahk)
-- [Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6](https://www.youtube.com/watch?v=HIcCKT-eTKM)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
