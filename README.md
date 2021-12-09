@@ -14,7 +14,7 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [React Router v6 guía práctica desde cero - Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
+- [React Router v6 - Guía práctica desde CERO | Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 - [React Router v6 - EN VIVO 🔴 | Guía para migrar desde la versión 5 | Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
