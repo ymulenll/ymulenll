@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Posicionamiento CSS - Guía desde cero | CSS Position en la práctica](https://www.youtube.com/watch?v=1F_Q5NQBkyU)
 - [Cómo hacer las certificaciones de AWS en ESPAÑOL | Paso a paso + tips](https://www.youtube.com/watch?v=5_tJLt8ChYg)
 - [React Router v6 - Guía práctica desde CERO | Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 - [React Router v6 - EN VIVO 🔴 | Guía para migrar desde la versión 5 | Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
 - [Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4](https://www.youtube.com/watch?v=VbXAwjAxfU0)
-- [Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8](https://www.youtube.com/watch?v=P7lYk-mHJtQ)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
