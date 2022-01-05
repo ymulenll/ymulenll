@@ -14,11 +14,11 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [React Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=lNkAJCoXg6I)
+- [React-Query Mutations Tutorial | Actualizar datos del servidor de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=X1qo8qEaWLg)
+- [React-Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=lNkAJCoXg6I)
 - [Posicionamiento CSS - Guía desde cero | CSS Position en la práctica](https://www.youtube.com/watch?v=1F_Q5NQBkyU)
 - [Cómo hacer las certificaciones de AWS en ESPAÑOL | Paso a paso + tips](https://www.youtube.com/watch?v=5_tJLt8ChYg)
 - [React Router v6 - Guía práctica desde CERO | Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
-- [React Router v6 - EN VIVO 🔴 | Guía para migrar desde la versión 5 | Tutorial](https://www.youtube.com/watch?v=v4wFgW4XpNs)
 - [Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial](https://www.youtube.com/watch?v=bhDwXdRcahY)
 - [Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9](https://www.youtube.com/watch?v=1gUzP9vrRP0)
 <!-- YOUTUBE:END -->
