@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Cómo cerrar cuenta de AWS y abrir otra con el mismo email](https://www.youtube.com/watch?v=KPwOFSwOefE)
 - [Cómo desplegar APP de React 💰GRATIS💰 con GitHub y Netlify 🚀 | Tutorial desde CERO](https://www.youtube.com/watch?v=aCEn6_BHZyI)
 - [✅ Scroll Infinito con React-Query - useInfiniteQuery | Migrando web de películas a react-query](https://www.youtube.com/watch?v=zhigY5FrWJs)
 - [React-Query Mutations Tutorial | Actualizar datos del servidor de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=X1qo8qEaWLg)
 - [React-Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=lNkAJCoXg6I)
 - [Posicionamiento CSS - Guía desde cero | CSS Position en la práctica](https://www.youtube.com/watch?v=1F_Q5NQBkyU)
 - [Cómo hacer las certificaciones de AWS en ESPAÑOL | Paso a paso + tips](https://www.youtube.com/watch?v=5_tJLt8ChYg)
-- [React Router v6 - Guía práctica desde CERO | Tutorial](https://www.youtube.com/watch?v=KKXFmzr0nKk)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
