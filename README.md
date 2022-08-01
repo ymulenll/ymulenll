@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Crear Slider &lpar;Carrusel&rpar; con SwiperJS 👌🏻 | Tutorial desde CERO](https://www.youtube.com/watch?v=bMy-mnqBtPk)
 - [Migrar de redux a Redux Toolkit &lpar;RTK&rpar; 🚀 | Tutorial paso a paso](https://www.youtube.com/watch?v=_EOjiX6RmPE)
 - [✅ Configura una VPN 💰GRATIS💰 en la nube &lpar;AWS&rpar;](https://www.youtube.com/watch?v=ssXbao4rGPA)
 - [🔥 Amazon RDS - Tutorial | Bases de Datos Relacionales en AWS ☁️ | AWS desde cero - Parte 10](https://www.youtube.com/watch?v=BTg1JbmE3x4)
 - [Cómo cerrar cuenta de AWS y abrir otra con el mismo email](https://www.youtube.com/watch?v=KPwOFSwOefE)
 - [Cómo desplegar APP de React 💰GRATIS💰 con GitHub y Netlify 🚀 | Tutorial desde CERO](https://www.youtube.com/watch?v=aCEn6_BHZyI)
 - [✅ Scroll Infinito con React-Query - useInfiniteQuery | Migrando web de películas a react-query](https://www.youtube.com/watch?v=zhigY5FrWJs)
-- [React-Query Mutations Tutorial | Actualizar datos del servidor de forma simple y eficiente 🚀](https://www.youtube.com/watch?v=X1qo8qEaWLg)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
