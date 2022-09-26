@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 5](https://www.youtube.com/watch?v=95IG9wyiyhQ)
 - [Cómo depurar &lpar;debug&rpar; código con vscode 🐞 | Debug Node.js, React, JavaScript](https://www.youtube.com/watch?v=BPWpialFWvM)
 - [RTK-Query - Tutorial | Parte 3: Mutations 👾](https://www.youtube.com/watch?v=i3CerEkkAmU)
 - [RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️](https://www.youtube.com/watch?v=kC_6YSi6XdE)
 - [RTK-Query - Tutorial | Redux Toolkit Query desde cero](https://www.youtube.com/watch?v=an2hyrNwCNE)
 - [Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones](https://www.youtube.com/watch?v=HqE-lGznGac)
 - [Crear Slider &lpar;Carrusel&rpar; con SwiperJS 👌🏻 | Tutorial desde CERO](https://www.youtube.com/watch?v=bMy-mnqBtPk)
-- [Migrar de redux a Redux Toolkit &lpar;RTK&rpar; 🚀 | Tutorial paso a paso](https://www.youtube.com/watch?v=_EOjiX6RmPE)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
