@@ -14,7 +14,7 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 5](https://www.youtube.com/watch?v=95IG9wyiyhQ)
+- [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 6](https://www.youtube.com/watch?v=95IG9wyiyhQ)
 - [Cómo depurar &lpar;debug&rpar; código con vscode 🐞 | Debug Node.js, React, JavaScript](https://www.youtube.com/watch?v=BPWpialFWvM)
 - [RTK-Query - Tutorial | Parte 3: Mutations 👾](https://www.youtube.com/watch?v=i3CerEkkAmU)
 - [RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️](https://www.youtube.com/watch?v=kC_6YSi6XdE)
