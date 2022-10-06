@@ -14,7 +14,7 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [Maquetado responsive con CSS GRID 🚀 #shorts](https://www.youtube.com/watch?v=iJ1157A5wf4)
+- [Maquetado responsive con CSS GRID 🚀 #shorts](https://www.youtube.com/watch?v=bcipOfwPlDE)
 - [🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub](https://www.youtube.com/watch?v=QJPQ3XdG11s)
 - [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 6](https://www.youtube.com/watch?v=95IG9wyiyhQ)
 - [Cómo depurar &lpar;debug&rpar; código con vscode 🐞 | Debug Node.js, React, JavaScript](https://www.youtube.com/watch?v=BPWpialFWvM)
