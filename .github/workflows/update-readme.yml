@@ -14,7 +14,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCp28AG2NaDuzyVaAT--2NGQ"
           max_post_count: 7
           commit_message: Updated with the latest YouTube videos
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: "YOUTUBE VIDEOS"
           custom_tags: "videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img height="47" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
