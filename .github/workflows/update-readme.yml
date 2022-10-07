@@ -17,4 +17,4 @@ jobs:
           comment_tag_name: "YOUTUBE"
           custom_tags: "videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img height="47" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img width="80px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
