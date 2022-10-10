@@ -1,4 +1,4 @@
-### Hi there 👋, thanks for visiting my github profile!
+# Hi there 👋, thanks for visiting my github profile!
 
 🔭 I am a Software Engineer with more than 10 years of experience. I have worked on various projects using C++, PHP, C#, JavaScript, and other programming languages. Currently I am interested in, teach about and develop software solutions with **JavaScript**, **TypeScript**, **ReactJs**, **NodeJS**, **AWS** and related technologies.
 
