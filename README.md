@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial](https://www.youtube.com/watch?v=MxSF2GPz4HE)
 - [Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial](https://www.youtube.com/watch?v=yVrb-V9AnM4)
 - [Maquetado responsive con CSS GRID 🚀 #shorts](https://www.youtube.com/watch?v=bcipOfwPlDE)
 - [🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub](https://www.youtube.com/watch?v=QJPQ3XdG11s)
 - [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 6](https://www.youtube.com/watch?v=95IG9wyiyhQ)
 - [Cómo depurar &lpar;debug&rpar; código con vscode 🐞 | Debug Node.js, React, JavaScript](https://www.youtube.com/watch?v=BPWpialFWvM)
 - [RTK-Query - Tutorial | Parte 3: Mutations 👾](https://www.youtube.com/watch?v=i3CerEkkAmU)
-- [RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️](https://www.youtube.com/watch?v=kC_6YSi6XdE)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
