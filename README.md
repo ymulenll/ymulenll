@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [DEBES Conocer esto 💡 | DNS - Cómo funciona](https://www.youtube.com/watch?v=UNF0aW6LY2U)
+- [AWS Lambda desde cero | Cómo funciona Lambda - Ventajas - Límites - Casos de uso](https://www.youtube.com/watch?v=2tZgke7QCYU)
+- [DNS - Cómo funciona💡| Registrar dominios, alojar páginas web.](https://www.youtube.com/watch?v=UNF0aW6LY2U)
 - [AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial](https://www.youtube.com/watch?v=MxSF2GPz4HE)
 - [Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial](https://www.youtube.com/watch?v=yVrb-V9AnM4)
 - [Maquetado responsive con CSS GRID 🚀 #shorts](https://www.youtube.com/watch?v=bcipOfwPlDE)
 - [🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub](https://www.youtube.com/watch?v=QJPQ3XdG11s)
 - [Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 6](https://www.youtube.com/watch?v=95IG9wyiyhQ)
-- [Cómo depurar &lpar;debug&rpar; código con vscode 🐞 | Debug Node.js, React, JavaScript](https://www.youtube.com/watch?v=BPWpialFWvM)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
