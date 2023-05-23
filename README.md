@@ -14,7 +14,7 @@
 </a>
 
 <!-- YOUTUBE:START -->
-- [AWS Lambda desde cero | Cómo funciona Lambda - Ventajas - Límites - Casos de uso](https://www.youtube.com/watch?v=2tZgke7QCYU)
+- [AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso](https://www.youtube.com/watch?v=2tZgke7QCYU)
 - [DNS - Cómo funciona💡| Registrar dominios, alojar páginas web.](https://www.youtube.com/watch?v=UNF0aW6LY2U)
 - [AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial](https://www.youtube.com/watch?v=MxSF2GPz4HE)
 - [Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial](https://www.youtube.com/watch?v=yVrb-V9AnM4)
