@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [🔥 Mejores Extensiones de Visual Studio Code &lpar;2024&rpar;](https://www.youtube.com/watch?v=UBh_xb9JgSI)
 - [Introducción a React para principiantes | Fundamentos](https://www.youtube.com/watch?v=OEnSQcN5Nz4)
 - [AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso](https://www.youtube.com/watch?v=2tZgke7QCYU)
 - [DNS - Cómo funciona💡| Registrar dominios, alojar páginas web.](https://www.youtube.com/watch?v=UNF0aW6LY2U)
 - [AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial](https://www.youtube.com/watch?v=MxSF2GPz4HE)
 - [Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial](https://www.youtube.com/watch?v=yVrb-V9AnM4)
 - [Maquetado responsive con CSS GRID 🚀 #shorts](https://www.youtube.com/watch?v=bcipOfwPlDE)
-- [🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub](https://www.youtube.com/watch?v=QJPQ3XdG11s)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
