@@ -14,13 +14,13 @@
 </a>
 
 <!-- YOUTUBE:START -->
+- [Cómo configurar la AWS CLI | Configuración de perfiles AWS | Acceso programático](https://www.youtube.com/watch?v=5Ek9TxluVd8)
 - [GitHub Pull Requests 👌🏻 #vscode #github #shorts](https://www.youtube.com/watch?v=2CxHfU1tO-E)
 - [🚀 Configuraciones PRO para Visual Studio Code &lpar;2024&rpar;](https://www.youtube.com/watch?v=ALUQUAwYSP4)
 - [Extensión fundamental para Git #vscode #git #shorts](https://www.youtube.com/watch?v=dWcl_EQvbIM)
 - [🔥 Mejores Extensiones de Visual Studio Code &lpar;2024&rpar;](https://www.youtube.com/watch?v=UBh_xb9JgSI)
 - [Introducción a React para principiantes | Fundamentos](https://www.youtube.com/watch?v=OEnSQcN5Nz4)
 - [AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso](https://www.youtube.com/watch?v=2tZgke7QCYU)
-- [DNS - Cómo funciona💡| Registrar dominios, alojar páginas web.](https://www.youtube.com/watch?v=UNF0aW6LY2U)
 <!-- YOUTUBE:END -->
 
 ## 🔢 GitHub Stats:
